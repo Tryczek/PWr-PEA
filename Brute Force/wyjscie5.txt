@@ -1,0 +1,30 @@
+Najlepsza trasa (1): 0 3 2 4 1 0
+Koszt najkrotszej trasy (1): 30
+Czas przeszukiwania (1): 5 mikrosekund
+Najlepsza trasa (2): 0 3 2 4 1 0
+Koszt najkrotszej trasy (2): 30
+Czas przeszukiwania (2): 4 mikrosekund
+Najlepsza trasa (3): 0 3 2 4 1 0
+Koszt najkrotszej trasy (3): 30
+Czas przeszukiwania (3): 4 mikrosekund
+Najlepsza trasa (4): 0 3 2 4 1 0
+Koszt najkrotszej trasy (4): 30
+Czas przeszukiwania (4): 4 mikrosekund
+Najlepsza trasa (5): 0 3 2 4 1 0
+Koszt najkrotszej trasy (5): 30
+Czas przeszukiwania (5): 4 mikrosekund
+Najlepsza trasa (6): 0 3 2 4 1 0
+Koszt najkrotszej trasy (6): 30
+Czas przeszukiwania (6): 3 mikrosekund
+Najlepsza trasa (7): 0 3 2 4 1 0
+Koszt najkrotszej trasy (7): 30
+Czas przeszukiwania (7): 4 mikrosekund
+Najlepsza trasa (8): 0 3 2 4 1 0
+Koszt najkrotszej trasy (8): 30
+Czas przeszukiwania (8): 4 mikrosekund
+Najlepsza trasa (9): 0 3 2 4 1 0
+Koszt najkrotszej trasy (9): 30
+Czas przeszukiwania (9): 4 mikrosekund
+Najlepsza trasa (10): 0 3 2 4 1 0
+Koszt najkrotszej trasy (10): 30
+Czas przeszukiwania (10): 3 mikrosekund

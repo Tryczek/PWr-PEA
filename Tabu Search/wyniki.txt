@@ -1,0 +1,2 @@
+Plik: bayg29.txt Wynik: 1614 Czas wykonania: 374 ms
+Plik: ft53.txt Wynik: 12143 Czas wykonania: 2118 ms

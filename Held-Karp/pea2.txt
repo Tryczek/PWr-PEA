@@ -1,0 +1,15 @@
+Zadanie polega na implementacji algorytmu Helda-Karpa w c++. Należy zbadać efektywność algorytmu w rozwiązywaniu problemu komiwojażera. Na pewno należy zbadać zależność czasu uzyskiwania rozwiązania od wielkości instancji (złożoność czasową) oraz zależność zużycia pamięci w zależności od wielkości instancji (złożoność pamięciową).
+Format pliku to:
+Pierwsza linia to ilosc miast np 10, reszta linii to macierz miast, która na przekątnej ma 0, 1 lub -1. Przykład:
+
+10
+ -1  81  50  18  75  39 107  77  87  43  
+ 81  -1  76  21  37  26  34  58  66  15  
+ 50  76  -1  24  14  58 100  68  33  30  
+ 18  21  24  -1  19  58  68  62  84  81  
+ 75  37  14  19  -1  31  60  65  29  91  
+ 39  26  58  58  31  -1  64  21  42  46  
+107  34 100  68  60  64  -1  15  55  16  
+ 77  58  68  62  65  21  15  -1  17  34  
+ 87  66  33  84  29  42  55  17  -1  68  
+ 43  15  30  81  91  46  16  34  68  -1

@@ -1,0 +1,4 @@
+Plik: burma14.txt
+Minimalna d³ugoœæ trasy: 3367
+Œredni czas: 22.73 ms
+

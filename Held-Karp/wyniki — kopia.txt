@@ -1,0 +1,48 @@
+Plik: tsp_6_1.txt
+Minimalna d³ugoœæ trasy: 132
+Œredni czas: 0.00 ms
+
+Plik: tsp_6_2.txt
+Minimalna d³ugoœæ trasy: 80
+Œredni czas: 0.00 ms
+
+Plik: tsp_10.txt
+Minimalna d³ugoœæ trasy: 212
+Œredni czas: 0.93 ms
+
+Plik: tsp_12.txt
+Minimalna d³ugoœæ trasy: 264
+Œredni czas: 7.88 ms
+
+Plik: tsp_13.txt
+Minimalna d³ugoœæ trasy: 269
+Œredni czas: 10.28 ms
+
+Plik: tsp_14.txt
+Minimalna d³ugoœæ trasy: 282
+Œredni czas: 23.11 ms
+
+Plik: tsp_15.txt
+Minimalna d³ugoœæ trasy: 291
+Œredni czas: 60.14 ms
+
+Plik: tsp_17.txt
+Minimalna d³ugoœæ trasy: 39
+Œredni czas: 260.29 ms
+
+Plik: burma14.txt
+Minimalna d³ugoœæ trasy: 3367
+Œredni czas: 23.22 ms
+
+Plik: gr21.txt
+Minimalna d³ugoœæ trasy: 2707
+Œredni czas: 5989.17 ms
+
+Plik: gr24.txt
+Minimalna d³ugoœæ trasy: 1272
+Œredni czas: 60806.48 ms
+
+Plik: fri26.txt
+Minimalna d³ugoœæ trasy: 937
+Œredni czas: 288571.09 ms
+
