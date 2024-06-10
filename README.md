@@ -1,5 +1,7 @@
 
-# PW-PEA
+# README.md
+
+## Overview
 
 This repository encompasses solutions to problems from the "Efficient Algorithm Design" course led by Tomasz Kapłon at Wrocław University of Science and Technology. The focus of the repository revolves around solving the Traveling Salesman Problem (TSP) using various algorithms. The implemented algorithms include Tabu Search, Held-Karp, Brute Force, and Ant Colony Optimization. The code is written in C++.
 
